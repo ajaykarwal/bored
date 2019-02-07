@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-const API = "http://www.boredapi.com/api/activity?";
+const API = "https://www.boredapi.com/api/activity?";
 
 class App extends Component {
   constructor(props) {
