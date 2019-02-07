@@ -16,7 +16,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://ajaykarwal.github.io/bored",
+  "homepage": "https://ajaykarwal.github.io/bored/",
   "eslintConfig": {
     "extends": "react-app"
   },
