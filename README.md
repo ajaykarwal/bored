@@ -1,6 +1,8 @@
-It uses the <a href="https://www.boredapi.com/">Bored API</a> by <a href="https://github.com/drewthoennes">Drew Thoennes</a>
+# https://ajaykarwal.github.io/bored/
 
-Feel free to fork and improve it.
+Just a small SPA playing around with React and the <a href="https://www.boredapi.com/">Bored API</a> by <a href="https://github.com/drewthoennes">Drew Thoennes</a>.
+
+Feel free to fork and improve it... It's pretty basic.
 
 ---
 
