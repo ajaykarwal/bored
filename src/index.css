@@ -48,7 +48,7 @@ hr {
 
 
 .App {
-  max-width: 1000px;
+  max-width: 700px;
   margin: auto;
   background-color: white;
   padding: var(--spacing-l);
@@ -110,7 +110,7 @@ label {
 }
 
 footer {
-  max-width: 1000px;
+  max-width: 700px;
   margin: auto;
   color: white;
   margin-top: var(--spacing-m);

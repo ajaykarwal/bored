@@ -161,7 +161,10 @@ class App extends Component {
           </form>
         </div>
         <footer>
-          This site uses the <a href="https://www.boredapi.com/">Bored API</a> by <a href="https://github.com/drewthoennes">Drew Thoennes</a>. The code is up on <a href="https://github.com/ajaykarwal/bored">GitHub</a>. Feel free to make it better.
+          <p>Just a little something by <a href="https://github.com/drewthoennes">Ajay Karwal</a>. The code is up on <a href="https://github.com/ajaykarwal/bored">GitHub</a>. Feel free to make it better.</p>
+          <p>
+            <small>This site uses the <a href="https://www.boredapi.com/">Bored API</a> by <a href="https://github.com/drewthoennes">Drew Thoennes</a>.</small>
+          </p>
         </footer>
       </div>
     );
