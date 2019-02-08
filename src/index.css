@@ -1,5 +1,7 @@
 :root {
   --theme: slateblue;
+  --yellow: #ffe554;
+  --error: #e65d5d;
   --lightgrey: #ddd;
   --spacing-s: .5em;
   --spacing: 1em;
@@ -60,10 +62,30 @@ font-size: 1.5em;
 .activity {
   font-size: 3em;
 }
+.error {
+  font-size: 3em;
+  color: var(--error);
+}
 
 .form-group {
   margin-bottom: var(--spacing);
 }
+.form-group span {
+  vertical-align: top;
+    display: inline-block;
+    margin-top: 11px;
+    margin-left: 10px;
+    background: #e6e6e6;
+    color: #666;
+    border-radius: 50px;
+    width: 24px;
+    height: 24px;
+    padding: 4px 0px;
+    text-align: center;
+    font-size: 12px;
+    box-sizing: border-box;
+}
+
 input:not([type=submit]), textarea, select {
   border-radius: 5px;
   border: 1px solid var(--lightgrey);
@@ -85,4 +107,16 @@ label {
   margin-right: var(--spacing-s);
   margin-bottom: var(--spacing-s);
   font-weight: bold;
+}
+
+footer {
+  max-width: 1000px;
+  margin: auto;
+  color: white;
+  margin-top: var(--spacing-m);
+  text-align: center;
+}
+
+footer a {
+  color: var(--yellow);
 }
