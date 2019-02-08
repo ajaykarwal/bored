@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/bored/static/js/runtime~main.5ebfdeaa.js"
   },
   {
-    "revision": "732628b43b50e86f1b40",
-    "url": "/bored/static/js/main.732628b4.chunk.js"
+    "revision": "8706ad8464e9b7fd0111",
+    "url": "/bored/static/js/main.8706ad84.chunk.js"
   },
   {
     "revision": "f715b2e0bea123466b14",
     "url": "/bored/static/js/1.f715b2e0.chunk.js"
   },
   {
-    "revision": "732628b43b50e86f1b40",
-    "url": "/bored/static/css/main.48fa7529.chunk.css"
+    "revision": "8706ad8464e9b7fd0111",
+    "url": "/bored/static/css/main.8efa7371.chunk.css"
   },
   {
-    "revision": "fe701271e87a29f3aa2937a8dac7bc88",
+    "revision": "dd18cbd8621af3594f22897712781a4e",
     "url": "/bored/index.html"
   }
 ];
